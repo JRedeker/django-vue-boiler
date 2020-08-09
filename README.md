@@ -1,5 +1,5 @@
-# django-vue-postgres-boiler
-A boilerplate (and quick example) for using Django and Postgres with a Vue frontend
+# django-vue-boiler
+A boilerplate / github template (and quick example) for using Django and Postgres with a Vue frontend
 
 # Instructions
 run with:
